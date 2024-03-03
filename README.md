@@ -32,12 +32,6 @@ La configuración del correo electrónico se realiza en el archivo `application.
 - `spring.mail.properties.mail.smtp.auth=true`
 - `spring.mail.properties.mail.smtp.starttls.enable=true`
 
-## Dependencias
-
-- Kotlin
-- Spring Boot
-- Spring Boot Starter Mail
-
  
 ## Ejemplo de Uso
 
